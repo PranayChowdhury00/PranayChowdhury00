@@ -77,10 +77,6 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/PranayChowdhury00/PranayChowdhury00/output/snake.svg" alt="Snake animation" />
-
-###
-
 <div align="center">
   <img src="https://profile-counter.glitch.me/PranayChowdhury00/count.svg?"  />
 </div>
